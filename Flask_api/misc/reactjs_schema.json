@@ -1,0 +1,31 @@
+{
+    "list_of_controls":
+    [
+        {
+            "control_1": "BUS001",
+            "control_2": "ITSEC001",
+            "control_3": "MC_MM_P033"
+        }
+    ],
+    "list_of_servers":
+    [
+        {
+            "server_1": {
+                "username": "<username>",
+                "password": "<password>",
+                "ashost": "<ashost>",
+                "system_number": "<system_number>",
+                "client_no": "<client_no>"
+            },
+            "server_2": {
+                "username": "<username>",
+                "password": "<password>",
+                "ashost": "<ashost>",
+                "system_number": "<system_number>",
+                "client_no": "<client_no>"
+            }
+        }
+    ],
+    "scheduler_startTime": "14:30:00",
+    "Interval": "120"
+}

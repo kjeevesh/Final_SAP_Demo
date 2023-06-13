@@ -1,0 +1,17 @@
+{
+    "event_id" : [
+        {
+            "req_no" : "<>",
+            "alert_send_date": "<>",
+            "alert_send_time": "<>",
+            "purchase_order_no" : "<>",
+            "company_code" : "<>",
+            "created_by" : "<>",
+            "created_date" : "<>",
+            "approved_by" : "<>",
+            "approved_date" : "<>",
+            "vendor_name" : "<>",
+            "vendor_code" : "<>"
+        }
+    ]
+}

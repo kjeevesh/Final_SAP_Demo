@@ -1,0 +1,116 @@
+# Control : To highlight PO creation and approval done by the same user
+
+# select Purchasing Document Category, Purchasing Document Number and PO approved data from EREV table
+SELECT bstyp,edokn,fgdat FROM erev
+                # putting the data in a table lt_erev
+               INTO TABLE @DATA(lt_erev)
+                # filter applying for today's date
+               WHERE fgdat IN @it_month
+                # filter where purchasing document category if 'F".
+                 AND bstyp EQ 'F'.
+
+
+# to check status of execution of ABAP statement
+  IF sy-subrc IS INITIAL.
+
+
+        # Purchasing Document Number
+    SELECT ebeln,
+        # Company Code
+           bukrs,
+        # Purchasing Document Category
+           bstyp,
+        # Date on which the record was created
+           aedat,
+        # Name of Person who Created the Object
+           ernam,
+        # Vendor's account number
+           lifnr,
+        # Purchasing organization
+           ekorg,
+        # Purchasing Group
+           ekgrp,
+        # Supplying plant
+           reswk,
+        # PO amount
+           ktwrt,
+        # Release Group
+           frggr,
+        # Release Strategy
+           frgsx,
+        # Release Indicator
+           frgke FROM ekko
+                # putting the extracted data into a table lt_ekko.
+                 INTO TABLE @DATA(lt_ekko)
+                # check for all entries in step-1 table
+                 FOR ALL ENTRIES IN @lt_erev
+                # where purchasing document number [ebeln] here is equal to pur doc no [edokn] from step 1
+                 WHERE ebeln EQ @lt_erev-edokn
+                # and company code is internal code i.e.., '100' in this case.
+                   AND bukrs IN @it_bukrs
+                # and pur doc category is 'F'
+                   AND bstyp EQ 'F'
+                # where frgke equals to 'R' or 'N'
+                   AND frgke EQ 'R' OR frgke EQ 'N'
+                # where loekz equals '' (empty string)
+                   AND loekz EQ ''.
+
+    IF sy-subrc IS INITIAL.
+        # Pur doc no
+      SELECT edokn,
+            # PO approved data
+             fgdat,
+            # Username (approved By) from erev table
+             fgnam  FROM erev
+                    # put the extracted data in a new table - lt_erev_f
+                    INTO TABLE @DATA(lt_erev_f)
+                    # for all entries from step 2
+                    FOR ALL ENTRIES IN @lt_ekko
+                    # filter ones where Pur doc no is equal to Pur doc no from step 2.
+                    WHERE edokn EQ @lt_ekko-ebeln.
+
+
+            # Purchasing Document Number
+      SELECT ebeln,
+
+             ebelp,
+
+             werks,
+            # banfn from EKPO table
+             banfn FROM ekpo
+                    # put the filtered data into lt_ekpo table
+                   INTO TABLE @DATA(lt_ekpo)
+                    # for all entries from step 2
+                   FOR ALL ENTRIES IN @lt_ekko
+                    # where pur doc no is equal to pur doc no from step 2
+                   WHERE ebeln EQ @lt_ekko-ebeln
+                    # where Deletion indicator in purchasing document equals empty string.
+                     AND loekz EQ ''.
+
+
+            # Vendor's account number
+      SELECT lifnr,
+            # name1 from lfa1
+             name1 FROM lfa1
+                    # put the data into lt_lfa1
+                   INTO TABLE @DATA(lt_lfa1)
+                    # for all data in lt_ekko
+                   FOR ALL ENTRIES IN @lt_ekko
+                    # where vendor's account name equals ven acc name from step 2
+                   WHERE lifnr EQ @lt_ekko-lifnr.
+
+
+            # Purchasing Document Number
+      SELECT ebeln,
+
+             ebelp,
+            # Cost center from ekkn
+             kostl FROM ekkn
+                    # put the data into lt_ekkn table
+                   INTO TABLE @DATA(lt_ekkn)
+                    # for all entries from step 2
+                   FOR ALL ENTRIES IN @lt_ekko
+                    # where pur doc no equals pur doc no from step 2
+                   WHERE ebeln EQ @lt_ekko-ebeln
+                    # where Deletion indicator in purchasing document equals 'null'
+                     AND loekz EQ ''.

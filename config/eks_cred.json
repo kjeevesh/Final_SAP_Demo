@@ -1,0 +1,6 @@
+{
+    "serverProtocol" : "http",
+    "serverIP" : "127.0.0.1",
+    "serverPort" : "7777",
+    "serverEndpoint" : "/Ticket/API/Create_Ticket"
+}

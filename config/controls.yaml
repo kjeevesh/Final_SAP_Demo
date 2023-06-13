@@ -1,0 +1,71 @@
+Controls:
+  - BUS001:
+    - Mandt: 1001
+    - RFC: 100
+    - ReqNo: 20230000001
+    - EventID: BUS001
+    - EventDescription: To highlight PO creation and approval done by the same user.
+    - ProgramName: ZBUS001
+    - Severity: HIGH
+    - RiskDescription: PO released by same user.
+    - EventClass: BUSINESS
+    - Categories: SOD VIOLATIONS
+    - RiskOwner: ETD_ALERT
+    - ROEmailId: mithun.m.rosinth@pwc.com
+    - ActionsToBeTaken: PLEASE CHECK
+  - ITSEC001:
+    - Mandt: 1002
+    - RFC: 100
+    - ReqNo: 20230000002
+    - EventID: ITSEC001
+    - EventDescription: Control will monitor privileged SAP profiles (SAP_ALL; SAP_NEW) assigned to Dialog user
+    - ProgramName: ZITSEC001
+    - Severity: CRITICAL
+    - RiskDescription: Critical Profile
+    - EventClass: SECURITY
+    - Categories: IT SECURITY - CRITICAL PROFILE
+    - RiskOwner: ETD_ALERT
+    - ROEmailId: mithun.m.rosinth
+    - ActionsToBeTaken: PLEASE CHECK WITH SECURITY TEAM
+  - MM_MC_P033:
+    - Mandt: 1003
+    - RFC: 100
+    - ReqNo: 20230000003
+    - EventID: MC_MM_P033
+    - EventDescription: Requisition an item and create a PO from that requisition
+    - ProgramName: ZMC_MM_P033
+    - Severity: MEDIUM
+    - RiskDescription: Requisition an item and create a PO from that requisition
+    - EventClass: MITIGATION CONTROL
+    - Categories: SOD VIOLATIONS
+    - RiskOwner: ETD_ALERT
+    - ROEmailId: mithun.m.rosinth
+    - ActionsToBeTaken: PLEASE CHECK WITH MC TEAM
+  - MM_MC_P006:
+    - Mandt: 1004
+    - RFC: 100
+    - ReqNo: 20230000004
+    - EventID: MC_MM_P006
+    - EventDescription: Hide inventory by not fully receiving order but invoicing
+    - ProgramName: ZMC_MM_P006
+    - Severity: HIGH
+    - RiskDescription: Hide inventory by not fully receiving order but invoicing
+    - EventClass: MITIGATION CONTROL
+    - Categories: SOD VIOLATIONS
+    - RiskOwner: ETD_ALERT
+    - ROEmailId: mithun.m.rosinth
+    - ActionsToBeTaken: PLEASE CHECK WITH MC TEAM
+  - MM_SD_S002:
+    - Mandt: 1005
+    - RFC: 100
+    - ReqNo: 20230000005
+    - EventID: MC_SD_S002
+    - EventDescription: Maintain sales document and immediately clear customer's obligation
+    - ProgramName: ZMC_SD_S002
+    - Severity: HIGH
+    - RiskDescription: Maintain sales document and immediately clear customer's obligation
+    - EventClass: MITIGATION CONTROL
+    - Categories: SOD VIOLATIONS
+    - RiskOwner: ETD_ALERT
+    - ROEmailId: mithun.m.rosinth
+    - ActionsToBeTaken: PLEASE CHECK WITH MC TEAM

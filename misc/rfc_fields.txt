@@ -1,0 +1,46 @@
+	MANDT	Client		
+	EBELN	Purchasing Document Number		
+	BUKRS	Company Code		
+	BSTYP	Purchasing Document Category		
+	BSART	Purchasing Document Type		
+	BSAKZ	Control indicator for purchasing document type		
+	LOEKZ	Deletion indicator in purchasing document		
+	STATU	Status of Purchasing Document		
+	AEDAT	Date on which the record was created		
+	ERNAM	Name of Person who Created the Object		
+	PINCR	Item Number Interval		
+	LPONR	Last Item Number		
+	LIFNR	Vendor's account number		
+	SPRAS	Language Key		
+	ZTERM	Terms of payment key		
+	ZBD1T	Cash (Prompt Payment) Discount Days		
+	ZBD2T	Cash (Prompt Payment) Discount Days		
+	ZBD3T	Cash (Prompt Payment) Discount Days		
+	ZBD1P	Cash discount percentage 1		
+	ZBD2P	Cash Discount Percentage 2		
+	EKORG	Purchasing organization		
+	EKGRP	Purchasing Group		
+	WAERS	Currency Key		
+	WKURS	Exchange Rate		
+	KUFIX	Indicator for Fixed Exchange Rate		
+	BEDAT	Purchasing Document Date		
+	KDATB	Start of Validity Period		
+	KDATE	End of Validity Period		
+	BWBDT	Closing Date for Applications		
+	ANGDT	Deadline for Submission of Bid/Quotation		
+	BNDDT	Binding Period for Quotation		
+	GWLDT	Warranty Date		
+	AUSNR	Bid invitation number		
+	ANGNR	Quotation Number		
+	IHRAN	Quotation Submission Date		
+	IHREZ	Your Reference		
+	VERKF	Responsible Salesperson at Supplier's Office		
+	TELF1	Supplier's Telephone Number		
+	LLIEF	Goods Supplier		
+	KUNNR	Customer Number		
+	KONNR	Number of principal purchase agreement		
+	ABGRU	Field Not Used		
+
+	# erev - FGUHR - time of release
+
+# ekko - erdap - time of creation

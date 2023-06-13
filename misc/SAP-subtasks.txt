@@ -1,0 +1,45 @@
+1. Extract the list of Purchase order as per the Release date for the entire month from table EREV.
+    - Connect to the SAP EREV table and extract data [FGDAT]
+    - Extract the purchase order for only one month - Jan, as only that is available.
+
+2. Extract the user’s who created the above extracted Purchase Order from EKKO for fully released PO’s.
+    - Connect to EKKO table.
+    - Filter 1 --> Enter the list of purchase orders extracted form step 1 [EBELN]
+    - Filter 2 --> Enter the company code [BUKRS] - in this case [1000]
+    - Filter 3 --> Enter the Document Category [BSTYP] - in this case [F]
+    - Filter 4 --> Enter the deletion indicator [LOEKZ] - in this case [<Blank>]
+    - Filter 5 --> Enter the release indicator [FRGKE] - in this case [R]
+    - Store all purchase order values filtered form the above filters.
+
+3. PO’s from EKKO will be fetched in EREV table to get the list of final approver of the Purchase Order.
+    - Enter the list of purchased orders [EDOKN] fetched from step 2 in the EKKO table.
+    - Create a logic to find the PO's where 'released by'[FGNAM-EREV] matched the 'created by' [ERNAM-EKKO] values.
+    - The values extracted from the previous step logics are the first set of exceptions.
+
+4. Identify the purchase orders which are not created with reference to Purchase requisition through table EKPO (Purchasing document item)
+    - Filter 1 --> Enter the list of extracted purchase orders [EBELN] in the EKPO table.
+    - Filter 2 --> Check the purchase requisition fields [BANFN] for those PO's.
+    - If [BANFN] is found to be empty then they are the second set of exceptions.
+
+5. For both exceptions, you have to retreive the following fields and send it to ITSM and Dashboard.
+
+    Company code                        EKKO-BUKRS
+    Purchase Document Number            EKKO-EBELN
+    Created On                          EKKO-AEDAT
+    Created By                          EKKO-ERNAM
+    Username (approved By)              EREV-FGNAM
+    PO approved date                    EREV-FGDAT
+    Purchase Requisition Number         EKPO- BANFN
+    Vendor code                         EKKO- LIFNR
+    Vendor name                         LFA1 - NAME1
+    PO amount                           EKKO – KTWRT
+    Receiving Plant                     EKPO- WERKS
+    Supplying plant                     EKKO- RESWK
+    Purchasing Org                      EKKO- EKORG
+    Purchasing Group                    EKKO- EKGRP
+    Cost center                         EKKN-KOSTL
+    Release Group                       EKKO-FRGGR
+    Release Strategy                    EKKO-FRGSX
+    Release Indicator                   EKKO-FRGKE
+
+    - Convert the above data into a json format to send it as request data. 

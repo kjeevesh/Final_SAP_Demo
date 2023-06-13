@@ -1,0 +1,31 @@
+http://in-ccusaphna.in.nam.ad.pwcinternal.com:9000/sap/bc/webdynpro/sap/zetd_dashboard?sap-language=EN#
+etd_alert
+jan@1234
+
+server name  : in-ccusaphna_SP1_04
+
+SAP IP : 10.31.101.161
+
+Server name 	: in-ccusaphna
+IP				: 10.31.101.161
+DB name			: HANA Database S4H
+Server name		: in-ccusaphna_SP1_04 [Host-name]
+JDBC port		: 30315
+
+VI Sap link		: http://in-ccusaphna.in.nam.ad.pwcinternal.com:9000/sap/bc/webdynpro/sap/zetd_dashboard?sap-language=EN#
+VI username		: etd_alert
+VI password		: jan@1234
+
+# Vishali creds
+user='etd_alert',
+    passwd='jan@1234',
+    ashost='10.31.101.161',
+    sysnr='04',
+    client='100'
+
+# Nirav's creds
+ "ASHOST" : "10.31.101.161",
+    "CLIENT" : "100",
+    "SYSNR" : "00",
+    "USER" : "py_sap",
+    "PASSWD" : "Py_sap@2023"

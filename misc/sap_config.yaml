@@ -1,0 +1,23 @@
+Controls:
+  - BUS333 :
+    - Event_id: BUS333
+    - Event_description: To highlight PO creation and approval done by the same user
+    - Event_severity: HIGH
+    - Risk_description: Asset accessed irregularly by user.
+    - Event_class: SECURITY
+    - Categories: SOD VIOLATIONS
+    - Risk_owner: etd_alert
+
+Client:
+  - Controls to check :
+    - BUS333
+
+SAP :
+  - Server_1:
+    - Schedule : 30
+    - Credentials:
+      - User: etd_alert
+      - Password: jan@1234
+      - Ashost: 10.31.101.161
+      - Sysnr: 04
+      - Client: 100

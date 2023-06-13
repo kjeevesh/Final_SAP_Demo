@@ -1,0 +1,1811 @@
+[
+    {
+        "WA": "0000100133|Customer 1 Hershey"
+    },
+    {
+        "WA": "0012000050|ABC"
+    },
+    {
+        "WA": "VEND002   |M/S Transport India Pvt Ltd"
+    },
+    {
+        "WA": "VEND001   |M/S Bricks Logistics India Pvt Ltd"
+    },
+    {
+        "WA": "0000100002|Sample Vendor 1"
+    },
+    {
+        "WA": "0000100003|External Vendor"
+    },
+    {
+        "WA": "0007000015|Cocoa RM Vendor"
+    },
+    {
+        "WA": "0000031010|PQR Plastic Manufacturer Limited"
+    },
+    {
+        "WA": "0000100010|Lancaster Milk Supply Co"
+    },
+    {
+        "WA": "0000100015|XYZ Inc"
+    },
+    {
+        "WA": "0000100016|Test"
+    },
+    {
+        "WA": "0000100017|test"
+    },
+    {
+        "WA": "0000100018|Test"
+    },
+    {
+        "WA": "0000100019|test"
+    },
+    {
+        "WA": "0000100020|XYZ Inc"
+    },
+    {
+        "WA": "0000100021|ABC Inc"
+    },
+    {
+        "WA": "0007000000|TCS LTD"
+    },
+    {
+        "WA": "0000100023|ETP Houston"
+    },
+    {
+        "WA": "0000900022|Bhavana"
+    },
+    {
+        "WA": "0000100025|KR Test"
+    },
+    {
+        "WA": "0000100026|Shell Corporation"
+    },
+    {
+        "WA": "0000100027|EAST WEST POWER LLP"
+    },
+    {
+        "WA": "0000100028|Eastern Oil Transfer Partners"
+    },
+    {
+        "WA": "0000100029|ABC Pest Control"
+    },
+    {
+        "WA": "0000100031|BVG India Ltd"
+    },
+    {
+        "WA": "0000100032|BVG India Ltd"
+    },
+    {
+        "WA": "0000015062|Indo chem"
+    },
+    {
+        "WA": "0000200006|Vendor 2"
+    },
+    {
+        "WA": "0000100035|GST Authority"
+    },
+    {
+        "WA": "0000100036|BVG India Ltd"
+    },
+    {
+        "WA": "0000100037|XYZ Industries"
+    },
+    {
+        "WA": "0000100038|Pricewaterhouse Coopers Pvt. Ltd."
+    },
+    {
+        "WA": "0000100040|ABC Vendor"
+    },
+    {
+        "WA": "0000100041|XYZ Ltd."
+    },
+    {
+        "WA": "0000100042|ZZZ Ltd"
+    },
+    {
+        "WA": "0000100043|OTIS India"
+    },
+    {
+        "WA": "0000100044|OTIS India"
+    },
+    {
+        "WA": "0000100045|Test Vendor1"
+    },
+    {
+        "WA": "0000100046|Reliance Corporate Park"
+    },
+    {
+        "WA": "0000100047|Demo XYZ"
+    },
+    {
+        "WA": "0000100048|Demo XYZ"
+    },
+    {
+        "WA": "0000100049|External vendor"
+    },
+    {
+        "WA": "0000100050|External vendor"
+    },
+    {
+        "WA": "0000100051|XYZ Limited"
+    },
+    {
+        "WA": "0000100052|XYZ Limited"
+    },
+    {
+        "WA": "0000100053|Customer_EWM_MS01"
+    },
+    {
+        "WA": "0000100054|BSNL"
+    },
+    {
+        "WA": "0000100055|Vodafone"
+    },
+    {
+        "WA": "0000100056|Vodafone"
+    },
+    {
+        "WA": "0000100057|Sanjay Pradhan"
+    },
+    {
+        "WA": "0007000010|Kitting-Vendor"
+    },
+    {
+        "WA": "0000030000|Customeraa"
+    },
+    {
+        "WA": "0000500000|Global fragrances"
+    },
+    {
+        "WA": "0000500001|Intran"
+    },
+    {
+        "WA": "0000200000|TESTING VENDOR"
+    },
+    {
+        "WA": "0000000037|DKT Pharma"
+    },
+    {
+        "WA": "0000200001|Dipika"
+    },
+    {
+        "WA": "0000500002|Zircon media"
+    },
+    {
+        "WA": "0000200002|ABC Ltd."
+    },
+    {
+        "WA": "0000200003|Osram"
+    },
+    {
+        "WA": "0000202001|Borosil Renewables Limited"
+    },
+    {
+        "WA": "0000500011|Miller"
+    },
+    {
+        "WA": "0000A00001|EWM-VEND01"
+    },
+    {
+        "WA": "0000A00002|Hindustan Liver Limited"
+    },
+    {
+        "WA": "0003000007|ABC Limited"
+    },
+    {
+        "WA": "0000200016|ABC Pvt Ltd"
+    },
+    {
+        "WA": "0000100062|cipla 2"
+    },
+    {
+        "WA": "0000100005|Vendor Limited"
+    },
+    {
+        "WA": "0000100061|cipla 1"
+    },
+    {
+        "WA": "0000200005|Vendor"
+    },
+    {
+        "WA": "0000200010|Salt Lake Vendor 2"
+    },
+    {
+        "WA": "0000500020|ABCD Xyz"
+    },
+    {
+        "WA": "0000500009|XXXXXX"
+    },
+    {
+        "WA": "0000500014|XXXXXX"
+    },
+    {
+        "WA": "0000500015|XababX"
+    },
+    {
+        "WA": "0000200015|Test Vendor Capex"
+    },
+    {
+        "WA": "0000500030|JK Enterprise"
+    },
+    {
+        "WA": "0000200017|VK 1"
+    },
+    {
+        "WA": "0000200018|Foreign Vendor"
+    },
+    {
+        "WA": "0000500033|Penny Hills"
+    },
+    {
+        "WA": "0000200019|Testing Foreign Currency Valuation"
+    },
+    {
+        "WA": "0000200020|ABC LTD"
+    },
+    {
+        "WA": "0000200021|Airbus Limited"
+    },
+    {
+        "WA": "0000500034|lenny gills"
+    },
+    {
+        "WA": "0000100065|Lease Vendor"
+    },
+    {
+        "WA": "0000100066|DEMO Vendor"
+    },
+    {
+        "WA": "0000100067|AWS Ltd."
+    },
+    {
+        "WA": "0000100068|TCC Ltd."
+    },
+    {
+        "WA": "0000100069|ADV Ltd."
+    },
+    {
+        "WA": "0000500040|MKM"
+    },
+    {
+        "WA": "0000100070|Customer 1"
+    },
+    {
+        "WA": "0000500041|Smith Paul"
+    },
+    {
+        "WA": "0000015003|Opex Capex Vendor"
+    },
+    {
+        "WA": "BVG2      |BVG2"
+    },
+    {
+        "WA": "0000A00010|Plant BVG1"
+    },
+    {
+        "WA": "0000015063|Linde India Ltd."
+    },
+    {
+        "WA": "0000015004|MKM Enterprises"
+    },
+    {
+        "WA": "P210      |SMS Plant"
+    },
+    {
+        "WA": "0230000013|Commission Agent"
+    },
+    {
+        "WA": "0230000014|XYZ Supply"
+    },
+    {
+        "WA": "0230000015|Foreign Company"
+    },
+    {
+        "WA": "0230000016|Coffee Unlimited"
+    },
+    {
+        "WA": "0000100071|Plant BVG1"
+    },
+    {
+        "WA": "0000015010|Fiori Test"
+    },
+    {
+        "WA": "0000020990|ABCD"
+    },
+    {
+        "WA": "0000500025|ewm vendor"
+    },
+    {
+        "WA": "0000015011|MK1978"
+    },
+    {
+        "WA": "0000500012|test"
+    },
+    {
+        "WA": "0000015020|mudjsc mudjsc"
+    },
+    {
+        "WA": "0000015021|mudjsc"
+    },
+    {
+        "WA": "0000500031|NBS Enterprise"
+    },
+    {
+        "WA": "0000500032|JNS Corporation"
+    },
+    {
+        "WA": "0000500035|Vendoer Test EWM"
+    },
+    {
+        "WA": "0000500036|JNS Inc"
+    },
+    {
+        "WA": "0000500037|ABCD Corp"
+    },
+    {
+        "WA": "0000500038|ABCDE Corp"
+    },
+    {
+        "WA": "0000017024|ACC Ltd."
+    },
+    {
+        "WA": "0000500039|Vendor Test EWM"
+    },
+    {
+        "WA": "0000100076|TEST"
+    },
+    {
+        "WA": "0000500042|TEST"
+    },
+    {
+        "WA": "0000500045|PDB Test"
+    },
+    {
+        "WA": "0000100059|IBC Warehousing IBC Warehousing"
+    },
+    {
+        "WA": "0000036001|Toshika Group"
+    },
+    {
+        "WA": "P230      |WRM Plant"
+    },
+    {
+        "WA": "0000100001|M/S Vendor Pvt Ltd"
+    },
+    {
+        "WA": "0000500050|Scrap Dealer"
+    },
+    {
+        "WA": "0210000014|KS Scrap Dealer"
+    },
+    {
+        "WA": "2000000010|TESTSAI1"
+    },
+    {
+        "WA": "0000015030|Adani Vendor"
+    },
+    {
+        "WA": "2000000011|Adani Vendor"
+    },
+    {
+        "WA": "2000000012|Adani Vendor"
+    },
+    {
+        "WA": "P250      |VSL Plant"
+    },
+    {
+        "WA": "P520      |Fastener Plant"
+    },
+    {
+        "WA": "0000222026|EWM VENDOR TEST"
+    },
+    {
+        "WA": "0210000017|Dmart"
+    },
+    {
+        "WA": "0000100094|ABC Company (Singapore) ABC Company"
+    },
+    {
+        "WA": "0000100086|KCR Vendor"
+    },
+    {
+        "WA": "0000100087|KCR Vendor"
+    },
+    {
+        "WA": "PN810     |Nesco"
+    },
+    {
+        "WA": "0000100088|ABC Pvt. Ltd."
+    },
+    {
+        "WA": "0000500052|Service Vendors(Test)"
+    },
+    {
+        "WA": "0210000019|ABC ABC"
+    },
+    {
+        "WA": "0210000020|DEF DEF"
+    },
+    {
+        "WA": "0210000021|GHI GHI"
+    },
+    {
+        "WA": "2000000013|ABC ABC"
+    },
+    {
+        "WA": "2000000014|ABC"
+    },
+    {
+        "WA": "0000100089|PQR Pvt. Ltd."
+    },
+    {
+        "WA": "0000200025|PRATHMESH PRATHMESH"
+    },
+    {
+        "WA": "0000200026|Sara Vedpathak"
+    },
+    {
+        "WA": "NA03      |Michigan US"
+    },
+    {
+        "WA": "0000500053|Demo Vendor"
+    },
+    {
+        "WA": "0000500055|randomtestvendor"
+    },
+    {
+        "WA": "0000A0001 |Plant 1"
+    },
+    {
+        "WA": "0000100091|Customs Commission of India"
+    },
+    {
+        "WA": "0000015040|R test Vendor"
+    },
+    {
+        "WA": "0000100092|CR UNO Industrial Company Ltd"
+    },
+    {
+        "WA": "0000500100|Transporter Testing"
+    },
+    {
+        "WA": "0000400112|Test for Import Vendor"
+    },
+    {
+        "WA": "0000500101|Transporter"
+    },
+    {
+        "WA": "0000100004|TULIP ELASTICS PVT LTD"
+    },
+    {
+        "WA": "0000100090|ABC Pvt Ltd"
+    },
+    {
+        "WA": "0000100006|UNIQUE TRADERS"
+    },
+    {
+        "WA": "0000100008|UNIFAB INDUSTRIES"
+    },
+    {
+        "WA": "0000100009|NAVYUG LAMINATES"
+    },
+    {
+        "WA": "0000100007|UDAY TRADING CO."
+    },
+    {
+        "WA": "0000100075|RX Testing Customer"
+    },
+    {
+        "WA": "0000100011|Vendor for ZSDC"
+    },
+    {
+        "WA": "0000100012|steel company"
+    },
+    {
+        "WA": "2000000020|Vendor for ZSDC"
+    },
+    {
+        "WA": "2000000021|Vendor 2 for ZSDC"
+    },
+    {
+        "WA": "0000100013|PT Indo Phil Chemicals"
+    },
+    {
+        "WA": "0000100014|Linde India Ltd."
+    },
+    {
+        "WA": "0000015064|Themis Pharma"
+    },
+    {
+        "WA": "0000100033|BVG India Ltd"
+    },
+    {
+        "WA": "0000500024|RM Supplier RM Supplier"
+    },
+    {
+        "WA": "0000015065|Viraj Wrapping"
+    },
+    {
+        "WA": "0000030010|Vend1-45A1"
+    },
+    {
+        "WA": "0012000032|Henkel Laundrycare Pvt. Ltd."
+    },
+    {
+        "WA": "0000A00100|Henkel Adhesives Corporation Ltd."
+    },
+    {
+        "WA": "0000017025|ABC private limited"
+    },
+    {
+        "WA": "0200000101|Test Vendor"
+    },
+    {
+        "WA": "0010203050|Classic Services Limited"
+    },
+    {
+        "WA": "0000100039|Nashik Warehouse PED"
+    },
+    {
+        "WA": "0000100058|Jindal Steel and Power ltd."
+    },
+    {
+        "WA": "0000100080|sdsd sharif"
+    },
+    {
+        "WA": "0000100063|Rishabh"
+    },
+    {
+        "WA": "0000100108|XYZ ltd"
+    },
+    {
+        "WA": "0000100073|Mohit"
+    },
+    {
+        "WA": "0000100072|fossils"
+    },
+    {
+        "WA": "0000100074|Rishabh"
+    },
+    {
+        "WA": "0000100077|mohit gupta"
+    },
+    {
+        "WA": "0000100079|mohit gupta"
+    },
+    {
+        "WA": "0000100081|iota"
+    },
+    {
+        "WA": "0000100078|Vox"
+    },
+    {
+        "WA": "0000100082|qwerty"
+    },
+    {
+        "WA": "0000035004|Ram Prakesh"
+    },
+    {
+        "WA": "0000100096|Gupta Enterprise"
+    },
+    {
+        "WA": "0000016003|Xenith Pvt ltd"
+    },
+    {
+        "WA": "0000500005|Vignesh"
+    },
+    {
+        "WA": "0000100132|Mr. Demonstrate EWM_PED"
+    },
+    {
+        "WA": "0000500007|Vignesh"
+    },
+    {
+        "WA": "0000500008|Vignesh"
+    },
+    {
+        "WA": "0000500013|Vignesh"
+    },
+    {
+        "WA": "0000500016|Vignesh"
+    },
+    {
+        "WA": "0000500017|Vignesh"
+    },
+    {
+        "WA": "0000500018|Vignesh"
+    },
+    {
+        "WA": "0000500019|Vignesh"
+    },
+    {
+        "WA": "0000500021|Vignesh"
+    },
+    {
+        "WA": "0000500022|Vignesh"
+    },
+    {
+        "WA": "0000500023|Vignesh"
+    },
+    {
+        "WA": "0000500026|Vignesh"
+    },
+    {
+        "WA": "0000500027|Vignesh"
+    },
+    {
+        "WA": "0000500028|Vignesh"
+    },
+    {
+        "WA": "0000500029|Vignesh"
+    },
+    {
+        "WA": "0000500043|Vignesh"
+    },
+    {
+        "WA": "0000500044|Vignesh"
+    },
+    {
+        "WA": "0000500046|Vignesh"
+    },
+    {
+        "WA": "0000500047|Vignesh"
+    },
+    {
+        "WA": "0000500048|Vignesh"
+    },
+    {
+        "WA": "0000500049|Vignesh"
+    },
+    {
+        "WA": "0000500054|Vignesh"
+    },
+    {
+        "WA": "0000500056|Vignesh"
+    },
+    {
+        "WA": "0000100084|prerna"
+    },
+    {
+        "WA": "0000017000|Ray and Ray Ltd"
+    },
+    {
+        "WA": "0000017001|Yash companies"
+    },
+    {
+        "WA": "0000017002|Priyanka"
+    },
+    {
+        "WA": "0000100095|Gujrat Enterprise"
+    },
+    {
+        "WA": "0000016001| XEON PVT LTD..."
+    },
+    {
+        "WA": "0000100083|Ignite  dom pvtltd"
+    },
+    {
+        "WA": "0000100099|Invoicing Party 2"
+    },
+    {
+        "WA": "0000100098|Invoicing Party 1"
+    },
+    {
+        "WA": "0000100097|Main Vendor"
+    },
+    {
+        "WA": "0000100100|Khan Enterprise"
+    },
+    {
+        "WA": "0000017003|SB01 SB01"
+    },
+    {
+        "WA": "0000031002|Shyam Sundar"
+    },
+    {
+        "WA": "0000031003|Test_1234"
+    },
+    {
+        "WA": "0000031004|Shyam_SB01"
+    },
+    {
+        "WA": "0000031005|Test_SPK1"
+    },
+    {
+        "WA": "0000037001|IJK Ltd"
+    },
+    {
+        "WA": "0000100060|Lokesh Enterprises"
+    },
+    {
+        "WA": "0000500051|Manpower Agency (Singapore)"
+    },
+    {
+        "WA": "0000100034|Reliance Industries Limited"
+    },
+    {
+        "WA": "0000017007|Goyenka Pvt Ltd"
+    },
+    {
+        "WA": "0000200030|aacharya ltd"
+    },
+    {
+        "WA": "0000500057|Nirmal traders"
+    },
+    {
+        "WA": "0000500058|RR Ltd"
+    },
+    {
+        "WA": "0260000001|Test Vendor 1"
+    },
+    {
+        "WA": "0000500059|SRH Ltd"
+    },
+    {
+        "WA": "0000017008|Abhi Enterprise"
+    },
+    {
+        "WA": "0000017009|Akshad ltd"
+    },
+    {
+        "WA": "0000017010|XYZ Enterprise"
+    },
+    {
+        "WA": "0000017011|virakt traders"
+    },
+    {
+        "WA": "0000017012|A-Z Enterprise"
+    },
+    {
+        "WA": "0000017013|aniket ltd"
+    },
+    {
+        "WA": "0000017014|SanSick Pvt Ltd"
+    },
+    {
+        "WA": "0000017015|AND Pvt Ltd"
+    },
+    {
+        "WA": "0000017016|Prizim Pvt Ltd"
+    },
+    {
+        "WA": "0000037002|Geekay Pvt Ltd"
+    },
+    {
+        "WA": "0000100101|Rishab"
+    },
+    {
+        "WA": "0000100106|J Limited"
+    },
+    {
+        "WA": "0000200035|Maloo"
+    },
+    {
+        "WA": "0000100107|Maloo"
+    },
+    {
+        "WA": "0000020000|test 1414"
+    },
+    {
+        "WA": "0000200036|JV Limited"
+    },
+    {
+        "WA": "0000200037|Jack Limited"
+    },
+    {
+        "WA": "0000017020|Dummy Vendor BP"
+    },
+    {
+        "WA": "0000100109|A B"
+    },
+    {
+        "WA": "0000200038|ABCD Dummy"
+    },
+    {
+        "WA": "0003000000|La Prudence"
+    },
+    {
+        "WA": "0003000001|La Prudence"
+    },
+    {
+        "WA": "0003000002|XYZ ltd"
+    },
+    {
+        "WA": "0003000003|XYZ ltd"
+    },
+    {
+        "WA": "0003000004|La Prudence"
+    },
+    {
+        "WA": "0000017021|XYZ Motors Limited"
+    },
+    {
+        "WA": "0000100030|Foreign Vendor Limited"
+    },
+    {
+        "WA": "0000200039|XYZ"
+    },
+    {
+        "WA": "0000100113|CapriCorn Logistics"
+    },
+    {
+        "WA": "0012000036|PQR Exporter Limited"
+    },
+    {
+        "WA": "0003000005|AB Ltd."
+    },
+    {
+        "WA": "0000200040|ZEDEX Limited"
+    },
+    {
+        "WA": "0000100112|ABC Motors Limited"
+    },
+    {
+        "WA": "0000031011|Prolife Pvt. Ltd."
+    },
+    {
+        "WA": "0000017022|BH Ltd"
+    },
+    {
+        "WA": "0012000035|Steel Authority Limited"
+    },
+    {
+        "WA": "0000100122|Raymond Textiles Limited"
+    },
+    {
+        "WA": "0000017023|ravi ltd"
+    },
+    {
+        "WA": "0000015050|PT Indo Phil Chemicals"
+    },
+    {
+        "WA": "0012000030|ABC trading limited"
+    },
+    {
+        "WA": "0003000006|KR A"
+    },
+    {
+        "WA": "0000100114|NM JAIN GUPTA"
+    },
+    {
+        "WA": "0000500060|Ommi Ltd"
+    },
+    {
+        "WA": "0012000049|ABC XYZ"
+    },
+    {
+        "WA": "0010203040|TEST_BUSINESS_PARTNER"
+    },
+    {
+        "WA": "0000018000|Saiplex IT Solutions"
+    },
+    {
+        "WA": "0000100115|Test skr"
+    },
+    {
+        "WA": "SFI BARAGE|Barage"
+    },
+    {
+        "WA": "0000018071|Saiplex Chennai IT Solutions"
+    },
+    {
+        "WA": "SFI       |CFM or DFM customer"
+    },
+    {
+        "WA": "0000018101|Birlasoft Consulting"
+    },
+    {
+        "WA": "0000018103|PwC Advisory Services"
+    },
+    {
+        "WA": "0003000008|Vendor master trial 32"
+    },
+    {
+        "WA": "0003000009|vendor trial 4 mster"
+    },
+    {
+        "WA": "PSFI      |Port plant"
+    },
+    {
+        "WA": "0270000001|Anil & Assocites"
+    },
+    {
+        "WA": "0000015070|Test"
+    },
+    {
+        "WA": "0000100116|xyz"
+    },
+    {
+        "WA": "0003000010|ABC Ltd"
+    },
+    {
+        "WA": "0003000011|ZSKR"
+    },
+    {
+        "WA": "0003000012|ZSKS"
+    },
+    {
+        "WA": "4000000000|Lata Mangeshkar"
+    },
+    {
+        "WA": "3000000000|R.D Burman"
+    },
+    {
+        "WA": "2000000002|Javed Akhtar"
+    },
+    {
+        "WA": "1000000000|Yash Chopra"
+    },
+    {
+        "WA": "6000000001|Dodhia Synthetics Limited (Surat)"
+    },
+    {
+        "WA": "1000000018|Pranay PLC"
+    },
+    {
+        "WA": "6000000002|xyz"
+    },
+    {
+        "WA": "6000000003|ABC private limited"
+    },
+    {
+        "WA": "0000100117|Tosi Group"
+    },
+    {
+        "WA": "0000100118|Pwc vendor"
+    },
+    {
+        "WA": "0006000000|ZSKR BP/Cust/Vend"
+    },
+    {
+        "WA": "0000100119|Pwc vendor"
+    },
+    {
+        "WA": "5000000001|Safex Fire Protection Testing"
+    },
+    {
+        "WA": "5000000000|SG Supplier Test"
+    },
+    {
+        "WA": "0200000113|Pernod Ricard India Private Limited"
+    },
+    {
+        "WA": "0003000013|test"
+    },
+    {
+        "WA": "0000100120|MG Test Supplier"
+    },
+    {
+        "WA": "0003000014|tata groups"
+    },
+    {
+        "WA": "0000100024|KR 123"
+    },
+    {
+        "WA": "6000000004|Safeguard Industries"
+    },
+    {
+        "WA": "0012000012|Domestic Vendor for ECC_2019"
+    },
+    {
+        "WA": "0000100121|Mohanish Tiles"
+    },
+    {
+        "WA": "2000000000|Commission Agent"
+    },
+    {
+        "WA": "0003000015|global honey production ltd"
+    },
+    {
+        "WA": "0003000016|global honey production ltd"
+    },
+    {
+        "WA": "0003000017|global honey production ltd"
+    },
+    {
+        "WA": "0012000038|VRL Logistics Limited"
+    },
+    {
+        "WA": "0000100126|Test vendor"
+    },
+    {
+        "WA": "5000000010|Domestic Vendor 1"
+    },
+    {
+        "WA": "0003000020|TEST_Vendor"
+    },
+    {
+        "WA": "0000100131|1414_test vendor"
+    },
+    {
+        "WA": "0000500006|Vignesh"
+    },
+    {
+        "WA": "7000000001|PepsiCo Vendor"
+    },
+    {
+        "WA": "7000000002|PepsiCo Vendor2"
+    },
+    {
+        "WA": "0000100000|Mathan M"
+    },
+    {
+        "WA": "7100000001|Progrss Vendor"
+    },
+    {
+        "WA": "0003000021|SKR Vendor 2"
+    },
+    {
+        "WA": "5200000001|TASKME Vendor"
+    },
+    {
+        "WA": "0003000022|ABC"
+    },
+    {
+        "WA": "0000001001|ABC"
+    },
+    {
+        "WA": "0000001000|ABC"
+    },
+    {
+        "WA": "0000001002|A1"
+    },
+    {
+        "WA": "0000001003|A1"
+    },
+    {
+        "WA": "0000001004|test"
+    },
+    {
+        "WA": "5200000011|ABC task me"
+    },
+    {
+        "WA": "5200000012|XYZ Task me"
+    },
+    {
+        "WA": "M100      |M100"
+    },
+    {
+        "WA": "M200      |M200"
+    },
+    {
+        "WA": "5200000013|VENDOR PARTNER FUCNTIONS"
+    },
+    {
+        "WA": "0000001020|Anandh Traders Inc"
+    },
+    {
+        "WA": "0000001021|Kamal Inc"
+    },
+    {
+        "WA": "0000300000|Asset Vendor"
+    },
+    {
+        "WA": "0000100022|ETP Inc"
+    },
+    {
+        "WA": "5200000021|Sheetal Veerwani"
+    },
+    {
+        "WA": "Z1002     |M900 - Plant"
+    },
+    {
+        "WA": "Z1001     |M110 Plant"
+    },
+    {
+        "WA": "5200000022|Bajaj Group"
+    },
+    {
+        "WA": "Z1003     |N100 Plant"
+    },
+    {
+        "WA": "Z1000     |Plant - M100"
+    },
+    {
+        "WA": "0000000001|Contract Demo_2"
+    },
+    {
+        "WA": "0007000115|Vendor for Pricing Procedure"
+    },
+    {
+        "WA": "0000002001|RTR Traders pvt ltd"
+    },
+    {
+        "WA": "0000002000|Surabi Electricals Pvt Ltd"
+    },
+    {
+        "WA": "0007000011|Bramaramba Traders"
+    },
+    {
+        "WA": "0007000012|Flour Supplier"
+    },
+    {
+        "WA": "0007000013|Grain Broker"
+    },
+    {
+        "WA": "0000010000|Commission Agent"
+    },
+    {
+        "WA": "0007000014|Gopal Snacks (Nagpur)"
+    },
+    {
+        "WA": "0000100136|Gopal Plant - Nagpur"
+    },
+    {
+        "WA": "0000100137|Gopal Plant"
+    },
+    {
+        "WA": "V111      |Osram Limited"
+    },
+    {
+        "WA": "0007000019|test1-vendor"
+    },
+    {
+        "WA": "0007000020|RAM LTD"
+    },
+    {
+        "WA": "0007000021|XYZ"
+    },
+    {
+        "WA": "0007000022|abcd"
+    },
+    {
+        "WA": "0007000024|SH07_TES"
+    },
+    {
+        "WA": "0007000029|IMPORT"
+    },
+    {
+        "WA": "0007000031|Test_Asset"
+    },
+    {
+        "WA": "0000002002|Soatop Farm"
+    },
+    {
+        "WA": "Z1004     |test for Demo"
+    },
+    {
+        "WA": "0007000032|Brigade Enterprise Ltd."
+    },
+    {
+        "WA": "0000001010|RSM HP EMP002"
+    },
+    {
+        "WA": "1000000017|Shivam PLC"
+    },
+    {
+        "WA": "6000000000|TEST1"
+    },
+    {
+        "WA": "0007000038|TEST1"
+    },
+    {
+        "WA": "0007000039|TEST1 CUSTOMER"
+    },
+    {
+        "WA": "0007000041|MR.RAM MOHAN LTD"
+    },
+    {
+        "WA": "0007000047|Quess Corp Ltd."
+    },
+    {
+        "WA": "0007000049|TEST"
+    },
+    {
+        "WA": "0007000050|TESRYIGK"
+    },
+    {
+        "WA": "0007000054|FOREIGN VENDOR"
+    },
+    {
+        "WA": "8800000000|Test Vendor - P"
+    },
+    {
+        "WA": "1000000019|Test Vendor 1"
+    },
+    {
+        "WA": "0007000058| Raheja Builders"
+    },
+    {
+        "WA": "0007000065|TEST_VENDOR"
+    },
+    {
+        "WA": "0000600000|India Motors"
+    },
+    {
+        "WA": "0110000000|ABC company"
+    },
+    {
+        "WA": "0110000003|xyz pvt ltd"
+    },
+    {
+        "WA": "0000005001|India Motors"
+    },
+    {
+        "WA": "0110000005|testvendor"
+    },
+    {
+        "WA": "0110000006|testingvendor2"
+    },
+    {
+        "WA": "0007000075|Test Vendor ABC"
+    },
+    {
+        "WA": "0007000076|XYZ Test Vendor"
+    },
+    {
+        "WA": "0007000077|My new Vendor"
+    },
+    {
+        "WA": "0007000079|Mayur_TestVendor"
+    },
+    {
+        "WA": "0007000080|TEST SAH"
+    },
+    {
+        "WA": "0007000102|Harsh Stationary"
+    },
+    {
+        "WA": "0000100064|Vendor for MPGENCO"
+    },
+    {
+        "WA": "0007000116|Kunwar & Sons"
+    },
+    {
+        "WA": "0007000119|Altron"
+    },
+    {
+        "WA": "0007000120|QWERTY Pvt Ltd"
+    },
+    {
+        "WA": "0007000122|VR Groups"
+    },
+    {
+        "WA": "1000000020|Contract Manufacturer 1- IN"
+    },
+    {
+        "WA": "1000000021|Contract Manufacturer 2- IN"
+    },
+    {
+        "WA": "1000000022|Contract Manufacturer 1- CH"
+    },
+    {
+        "WA": "1000000023|Contract Manufacturer 2- CH"
+    },
+    {
+        "WA": "1000000027|boAt Lifestyle (Bengaluru)"
+    },
+    {
+        "WA": "1000000025|boAt Lifestyle (Kolkata)"
+    },
+    {
+        "WA": "1000000024|boAt Lifestyle (Mumbai)"
+    },
+    {
+        "WA": "1000000026|boAt Lifestyle (New Delhi)"
+    },
+    {
+        "WA": "0000050000|Material Supplier LLC"
+    },
+    {
+        "WA": "0000060000|Jess Flowers"
+    },
+    {
+        "WA": "0000040000|Enery Supplier"
+    },
+    {
+        "WA": "0007000130|AMAZON PALANPUR"
+    },
+    {
+        "WA": "0007000141|hargouri traders pvt ltd"
+    },
+    {
+        "WA": "0000000021|TEST RIL"
+    },
+    {
+        "WA": "MPN0001   |Test mpn 1"
+    },
+    {
+        "WA": "0000670001|IN01 Test 1"
+    },
+    {
+        "WA": "0000000022|Vendor 2"
+    },
+    {
+        "WA": "0000000023|WM 33 Plant"
+    },
+    {
+        "WA": "0000670002|IN01 Test 2"
+    },
+    {
+        "WA": "0000670003|IN01 Test 3"
+    },
+    {
+        "WA": "0000670007|RM Supplier IN01 7"
+    },
+    {
+        "WA": "0000000025|Combilift"
+    },
+    {
+        "WA": "0000670004|IN01 Test 4"
+    },
+    {
+        "WA": "0000670005|IN01 Test 5"
+    },
+    {
+        "WA": "0007000149|MILTON INDIA PVT LTD"
+    },
+    {
+        "WA": "0007000150|INTAS PHARMA"
+    },
+    {
+        "WA": "0000670006|RM Supplier IN01"
+    },
+    {
+        "WA": "0000000024|WM 33 Plant"
+    },
+    {
+        "WA": "0000000029|Sama"
+    },
+    {
+        "WA": "MPN0002   |Philips India Limited"
+    },
+    {
+        "WA": "MPN0003   |Osram India Pvt Ltd"
+    },
+    {
+        "WA": "0000222001|STO vendor"
+    },
+    {
+        "WA": "0000222002|STO cust IN02"
+    },
+    {
+        "WA": "Z1022     |STO ven IN02 5"
+    },
+    {
+        "WA": "0090000000|ABC India Ltd"
+    },
+    {
+        "WA": "0080000000|CDE Ltd"
+    },
+    {
+        "WA": "0070000000|BCG Ltd"
+    },
+    {
+        "WA": "0003002000|Test"
+    },
+    {
+        "WA": "0000400000|Ommi Ltd"
+    },
+    {
+        "WA": "0007000152|Test"
+    },
+    {
+        "WA": "0000000100|Testing 16.09.2021"
+    },
+    {
+        "WA": "5000000002|ABAN Offshore"
+    },
+    {
+        "WA": "5000000003|PTC India Pvt. Ltd1"
+    },
+    {
+        "WA": "0110000004|TEST CUSTOMER LIMITED"
+    },
+    {
+        "WA": "5000000004|PTC India Pvt. Ltd2"
+    },
+    {
+        "WA": "0000670009|Abbot"
+    },
+    {
+        "WA": "0000670010|test"
+    },
+    {
+        "WA": "0000670011|Dailycal"
+    },
+    {
+        "WA": "0000670012|Flamsmart"
+    },
+    {
+        "WA": "0000201000|Izmo pvt Ltd"
+    },
+    {
+        "WA": "8100000002|Amutham industries limited"
+    },
+    {
+        "WA": "8100000003|Siva limited"
+    },
+    {
+        "WA": "8100000004|Daikin industries"
+    },
+    {
+        "WA": "0000000400|ABC FILTERS"
+    },
+    {
+        "WA": "5000000007|test BP"
+    },
+    {
+        "WA": "0000000026|ABC"
+    },
+    {
+        "WA": "0000000027|ABC"
+    },
+    {
+        "WA": "0000000028|BCD"
+    },
+    {
+        "WA": "0000000030|RTY"
+    },
+    {
+        "WA": "0000100141|QWE"
+    },
+    {
+        "WA": "0000100142|GWGG"
+    },
+    {
+        "WA": "0000100143|DQDD"
+    },
+    {
+        "WA": "0000100144|SQSS"
+    },
+    {
+        "WA": "0000100145|VWVV"
+    },
+    {
+        "WA": "0000040005|ABC"
+    },
+    {
+        "WA": "8100000010|Test Pvt Ltd"
+    },
+    {
+        "WA": "8100000011|SMK Traders"
+    },
+    {
+        "WA": "8100000012|Dummy Pvt Ltd"
+    },
+    {
+        "WA": "1000100011|Test Vendor AGro"
+    },
+    {
+        "WA": "1000100012|test 1234"
+    },
+    {
+        "WA": "1000100013|SS Agro ltd"
+    },
+    {
+        "WA": "0210000016|Pricewaterhouse Coopers Pvt Ltd"
+    },
+    {
+        "WA": "0000100085|Standard Chartered"
+    },
+    {
+        "WA": "0000900023|Swapnil pvt ltd"
+    },
+    {
+        "WA": "0000900025|Asian Paints"
+    },
+    {
+        "WA": "0000000002|Test12345"
+    },
+    {
+        "WA": "0000900030|Cheena & Co"
+    },
+    {
+        "WA": "0000900032|Cheena & Co"
+    },
+    {
+        "WA": "0000900033|Cheena & Co"
+    },
+    {
+        "WA": "0000900034|Vendor ABC & Co"
+    },
+    {
+        "WA": "0000018102|Tools supplier limited"
+    },
+    {
+        "WA": "0000018104|ABC1 supplier"
+    },
+    {
+        "WA": "0000900042|abc2 SUPPLIER"
+    },
+    {
+        "WA": "KINGTU1K  |One-time vendor"
+    },
+    {
+        "WA": "0008100001|Tobacco Manufacturers India Ltd"
+    },
+    {
+        "WA": "0008100002|Rothmans International Ltd"
+    },
+    {
+        "WA": "0004000000|SHRIRAM PHARMA LIMITED"
+    },
+    {
+        "WA": "0004000001|AJAY"
+    },
+    {
+        "WA": "0004000002|STAR"
+    },
+    {
+        "WA": "0004000003|MG"
+    },
+    {
+        "WA": "0888888810|Test Vendor 1"
+    },
+    {
+        "WA": "0020000009|Anurag Textile"
+    },
+    {
+        "WA": "0000035005|Shree Jee"
+    },
+    {
+        "WA": "0000001005|MG"
+    },
+    {
+        "WA": "0000001006|PJI"
+    },
+    {
+        "WA": "0000035003|Rakesh"
+    },
+    {
+        "WA": "0000035001|DP"
+    },
+    {
+        "WA": "0000035002|CHANDER"
+    },
+    {
+        "WA": "0000000015|Ignite pvt ltd"
+    },
+    {
+        "WA": "0000202000|ABC Vendor"
+    },
+    {
+        "WA": "0000000036|ABC India ltd"
+    },
+    {
+        "WA": "0000020001|Hershey cocd 1001"
+    },
+    {
+        "WA": "0000000070|ABC India Ltd."
+    },
+    {
+        "WA": "0000222011|test vendor78"
+    },
+    {
+        "WA": "0000222017|MS SUPPLIER LTD"
+    },
+    {
+        "WA": "0000222013|TEST VENDOR 123456"
+    },
+    {
+        "WA": "0000222014|test vendors ltd"
+    },
+    {
+        "WA": "0000222012|test Vendor23"
+    },
+    {
+        "WA": "0230000099|airtel"
+    },
+    {
+        "WA": "0045000801|hu"
+    },
+    {
+        "WA": "0000200045|Titan Plus"
+    },
+    {
+        "WA": "0000031015|Nimit and Sons"
+    },
+    {
+        "WA": "0020000001|Borosil Limited"
+    },
+    {
+        "WA": "0000500010|ank kha"
+    },
+    {
+        "WA": "0000202002|Klass Packs"
+    },
+    {
+        "WA": "0020000002|Borosil Renewables Limited"
+    },
+    {
+        "WA": "0065000805|test"
+    },
+    {
+        "WA": "0065000806|Test Vendor for Borosil"
+    },
+    {
+        "WA": "0065000807|TEst"
+    },
+    {
+        "WA": "0008100004|Vendor for Co. 5156"
+    },
+    {
+        "WA": "0000801001|Ratna Enterprises Ltd"
+    },
+    {
+        "WA": "0000031016|ABC Vendor Ltd."
+    },
+    {
+        "WA": "0000031017|Random Person Name"
+    },
+    {
+        "WA": "0000000075|ratna enterprise limited"
+    },
+    {
+        "WA": "0000805000|BOA INDIA"
+    },
+    {
+        "WA": "1800000000|Test 1"
+    },
+    {
+        "WA": "0065000808|ABC Limited"
+    },
+    {
+        "WA": "0000031018|Sai Machine tools ltd"
+    },
+    {
+        "WA": "0000031019|MPN -01"
+    },
+    {
+        "WA": "0000000040|AAA LTD"
+    },
+    {
+        "WA": "0003002001|VENDOR LTD"
+    },
+    {
+        "WA": "0000060002| ff"
+    },
+    {
+        "WA": "0065000811|Klass Packs"
+    },
+    {
+        "WA": "0000100146|TEST Domestic Vendor"
+    },
+    {
+        "WA": "0000100147|TEST Domestic Vendor 2"
+    },
+    {
+        "WA": "7200000000|Viacom Media"
+    },
+    {
+        "WA": "0000222027|EWM VENDOR TEST1"
+    },
+    {
+        "WA": "0000807000|Bank of New York"
+    },
+    {
+        "WA": "0008100005|Bill Gates Ltd"
+    },
+    {
+        "WA": "0000000076|XYZ INDIA LTD."
+    },
+    {
+        "WA": "0000900000|Vendor1"
+    },
+    {
+        "WA": "0008100006|AB LTD"
+    },
+    {
+        "WA": "0000100148|Borosil Renewables Limited"
+    },
+    {
+        "WA": "0000200046|Borosil Limited"
+    },
+    {
+        "WA": "0000300015|Borosil Limited"
+    },
+    {
+        "WA": "0065000816|Borosil Limited"
+    },
+    {
+        "WA": "0000100149|Borosil"
+    },
+    {
+        "WA": "0065000817|Borosil Renewables Limited"
+    },
+    {
+        "WA": "1800000001|Manoj Kumar Pvt Ltd"
+    },
+    {
+        "WA": "0000200050|Diamond services LLP"
+    },
+    {
+        "WA": "1800000002|Sairakesh Ltd"
+    },
+    {
+        "WA": "1800030002|Ixigo Pvt Ltd.."
+    },
+    {
+        "WA": "1800000003|Karthik Pvt Ltd"
+    },
+    {
+        "WA": "0000807010|ABC LTD"
+    },
+    {
+        "WA": "0000200051|Dixit Industries"
+    },
+    {
+        "WA": "0000031020|Mankesh Practice pvt ltd"
+    },
+    {
+        "WA": "1800030005|pratibha ltd"
+    },
+    {
+        "WA": "1800030006|Chirag vendor ji"
+    },
+    {
+        "WA": "1800030004|Chirag the vendor"
+    },
+    {
+        "WA": "0000000080|Shubham Private Limited"
+    },
+    {
+        "WA": "0008100014|Shubham Private Limited"
+    },
+    {
+        "WA": "0000100151|ABC Pvt Ltd"
+    },
+    {
+        "WA": "0000202005|ABC Pvt Ltd"
+    },
+    {
+        "WA": "0000202007|Manoj Kumar Pvt Ltd"
+    },
+    {
+        "WA": "0000031021|Arpit Ltd"
+    },
+    {
+        "WA": "0000031022|Madhura"
+    },
+    {
+        "WA": "0000100152|AM"
+    },
+    {
+        "WA": "0000100153|Shriya"
+    },
+    {
+        "WA": "0000035501|SP Test Vendor-1"
+    },
+    {
+        "WA": "0000035502|DFF"
+    },
+    {
+        "WA": "0000222031|Test Vendor & Customer"
+    },
+    {
+        "WA": "0008100015|Cheena & Co"
+    },
+    {
+        "WA": "9000000000|Meena & Co"
+    },
+    {
+        "WA": "9000000001|Ocean Dial Ltd"
+    },
+    {
+        "WA": "7200000005|Cheena"
+    },
+    {
+        "WA": "7200000006|Tina"
+    },
+    {
+        "WA": "7200000007|Tina"
+    },
+    {
+        "WA": "0000100155|XYZ Ltd"
+    },
+    {
+        "WA": "0000800002|SHashank Sethi"
+    },
+    {
+        "WA": "0000100156|hiren krishna"
+    },
+    {
+        "WA": "0888888820|charan"
+    },
+    {
+        "WA": "0888888821|laksh"
+    }
+]

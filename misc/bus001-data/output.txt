@@ -1,0 +1,39 @@
+# A function to creata json tickets and send it to itsm
+        # ['4500001665', - Purchase doc no
+        # '0001', - Company Code
+        # '20230205', - Created on
+        # 'ANSHULA     ', - Created by
+        # '0110000005', - Vendor code
+        # '          0.00 ', - PO amount
+        # '    ', - Supplying plant
+        # '0001', - Purchasing organization
+        # '001', - Purchasing group
+        # 'R7', - Release group
+        # 'S2', - Release strategy
+        # 'R', - Release Indicator
+        # '          ', - Purchase Requisition Number
+        # '0001', - Receiving Plant
+        # 'ANSHULA     ', -  Username (approved By)
+        # '20230205'] - PO approoved date
+
+        
+        
+#         {
+#     "MANDT": "333",
+#     "RFC": "",
+#     "REQ_NO": "0000000021",
+#     "ALERT_SEND_DATE": "2023-05-02",
+#     "ALERT_SEND_TIME": "12:25:15",
+#     "EVENT_ID": "BUS333",
+#     "EVENT_DESCRIPTION": "To highlight PO creation and approval done by the same user",
+#     "PROGRAM_NAME": "ZBUS001",
+#     "SEVERITY": "LOW",
+#     "RISK_DESCRIPTION": "Asset accessed irregularly by user.",
+#     "EVENT_CLASS": "SECURITY",
+#     "CATEGORIES": "SOD VIOLATIONS",
+#     "RISK_OWNER": "ETD_ALERT",
+#     "ALERT_CLOSED_DATE": "2023-04-27",
+#     "ALERT_STATUS": "SUCCESS",
+#     "STATUS": "OPEN",
+#     "INCIDENT_NO": ""
+# }
